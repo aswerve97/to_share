@@ -42,4 +42,4 @@ async def on_message(message):
         await client.logout()
 
 
-client.run("OTE1NDY2MDM2NTkyMTE5ODE5.YacALw.NaSIZQlpm0ZAhw4xuR2Tk7EzSiY")
+client.run("BOT KEY GOES IN HERE")
